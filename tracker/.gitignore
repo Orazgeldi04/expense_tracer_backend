@@ -1,0 +1,22 @@
+
+# ENV FILES
+.env*
+!.env.example
+
+# NODE MODULES
+node_modules/
+
+# BUILD FILES
+dist/
+build/
+
+# LOGS
+*.log
+
+# OS FILES
+.DS_Store
+Thumbs.db
+
+# IDE FILES
+.vscode/
+.idea/
